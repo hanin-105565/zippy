@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Update Docs Home and Neural Magic pages (#7243)
