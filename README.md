@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Update Twitter icon in Docs (#7711)
