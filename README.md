@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Update Colab notebook for YOLOv8.1 (#8660)
